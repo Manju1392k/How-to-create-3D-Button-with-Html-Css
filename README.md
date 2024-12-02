@@ -49,7 +49,7 @@
 * Now Open **cmd** in windows, **bash Terminal** in mac. Now Hit the Below Command's
 
 ```bash
-git clone [https://github.com/Manju1392k/ItemsReview-Website.git](https://github.com/Manju1392k/How-to-create-3D-Button-with-Html-Css.git)
+git clone https://github.com/Manju1392k/How-to-create-3D-Button-with-Html-Css.git
 ```
 
 * The project cloned after this process
